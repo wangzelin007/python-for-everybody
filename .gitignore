@@ -3,3 +3,5 @@
 workspace.code-workspace
 .idea
 .env
+.pyc
+env/
