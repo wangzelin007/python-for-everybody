@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": ".\\env\\Script\\python.exe",
+  "python.linting.pylintEnabled": true
+}
